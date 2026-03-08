@@ -13,6 +13,8 @@ This repository currently includes the initial exploratory data analysis (EDA) n
 ## Project Structure
 
 - `01_eda_icu_billing_denials.ipynb`: exploratory data analysis of the dataset
+- `Xgboost.ipynb`: data preprocessing
+- `model_smote_SD.ipynb`: model training, model evaluation and shap interpretation
 
 ## Tools and Technologies
 
